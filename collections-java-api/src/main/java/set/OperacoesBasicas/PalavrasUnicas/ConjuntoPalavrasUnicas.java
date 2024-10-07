@@ -1,4 +1,4 @@
-package main.java.set.OperacoesBasicas.Convidados.PalavrasUnicas;
+package main.java.set.OperacoesBasicas.PalavrasUnicas;
 
 import java.util.HashSet;
 import java.util.Set;

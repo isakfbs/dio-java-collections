@@ -1,4 +1,4 @@
-package main.java.set.Pesquisa;
+package main.java.set.Pesquisa.Contatos;
 
 import java.util.Objects;
 
